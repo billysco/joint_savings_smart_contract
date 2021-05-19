@@ -19,3 +19,6 @@ Confirmation of the first test withdrawl:
 Confirmation of the second withdrawl with terminal confirmation:
 
 ![Test withdrawl 2](https://github.com/billysco/joint_savings_smart_contract/blob/main/Screenshots/second_withdrawal.PNG)
+
+## Contributor
+William Scolinos | billyscolinos1@gmail.com
